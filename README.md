@@ -38,12 +38,12 @@ Go's built-in concurrency model makes it the perfect candidate for a real-time, 
  - [] Marketing Strategy: Develop and execute a marketing plan to reach tattoo enthusiasts and local artists.
  - [] Testing & Deployment: Write comprehensive tests and deploy the app using Docker and Kubernetes.
 
-Contributing
+## Contributing
 We welcome all contributions! Whether you're adding a feature, fixing a bug, or simply improving the documentation, feel free to fork the repository and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 Have questions or ideas? Reach out at fernandocorreia316@gmail.com.
 
